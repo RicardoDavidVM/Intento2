@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sun.jmf" type="repository">
+    <properties maven-id="sun-jmf:jmf:2.1.1b" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Aplicaciones de ocio (Java,etc)/juva/lib/jmf-2.1.1b.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
